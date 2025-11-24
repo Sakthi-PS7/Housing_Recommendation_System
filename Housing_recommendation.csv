@@ -1,0 +1,133 @@
+﻿S.No,Zip Code,Address,Bedrooms,Bath,Laundry,Transportation,Dist.from_univ ,Amenities,type_of_room,Languages Spoken,Gender,rent,Food,Type_of_accomodation
+1,2446,"77walnut st,Brookline",2,1,Yes,"3mins to Dline,5mins walk e line, 10mins to bus route 66",1,"Gasstove,fridge,microwave,oven",Private,No preference,Boys,$645/Month,Veg,Permanent
+2,2130,"21, Forest hill,Jamaican plain",5,2,Yes,"3mins to busstop,9mins walk to green line",1.1,"beframe, mattressFull aminities included",Shared,No preference,Girls,$540/Montha,Veg,Permanent
+3,2116,1197 Boylston street,2,1,Yes,"10mins walk to NEU, 5mins walk to green line",0.4,"bed study table chair, Hotwate and heater",Shared,No preference,Girls,$550/Month,Veg,Temporary
+4,2116,"1175 Boylston street,Boston",3,1.5,Yes,"Redeye accessable,12mins to NEU, 5mins walk to green line",0.6,"Fullu equipped kitchen,Heat and hotwater",Shared,No preference,Girls,$600/Month,Nonveg,Permanent
+5,2215,"252 park drive,fenwey",2,1,Yes,"Redeye,0.2 mile to green line,o0.1miles to busstop",0.7,"Heater ,Stove fridge,oven,microwave,dishwasher,wifi",Shared,No preference,Boys,$670/month,Veg,Temporary
+6,2116,1171 boylstonstreet,1,1,Yes,"Red eye, 15mins walk to northeastern",0.4,Fully equppied kitchen,Shared,No preference,Girls,$590/Month,Veg,Permanent
+7,2120,5 Cornelia court,3,1.5,Yes,"Red eye, 4mins greenline, 8mins to orangeline ",0.4,"Fullu equpped kitchen,Heat and hotwater",Shared,No preference,Girls,$527/Month,Veg,Permanent
+8,2119,"190 Highland street,apt3",4,1.5,Yes,"8mins to orangeline, 5mins to busstop",1.2,"Fully furnised kitchen, centralized heating and cooling",Private,No preference,Girls,$1050/Month,Veg,Permanent
+9,2119,"409 Dudley street,Roxbury",3,2,Yes,"15mins walk to NEU, 8mins to bus stop, 2mins for free bus",1.5,Fully equipped kitchen,Private,No preference,Girls,$765/Month,Veg,permanent
+10,2119,251 Highland street,4,2,Yes,"Redeye, 5mins to orangeline, 3min to bus stop",0.2,Fully equippied kitchen,Shared,No preference,Girls,$570/Month,Veg,Permanent
+11,2119,"129 Cedar street,Unit1,Roxbury",4,2,Yes,5mins to orange line,0.5,Heat and water included,Shared,No preference,Boys,$575/Month,Veg,Permanent
+12,2114,Towers of longfellow,2,2,Yes,"Redeye 6mins to green line, 5mins to blue line",0.3,"Fully furnished kitchen,AC,Heater,dinning area with dinning table",Shared,No preference,Girls,$600/Month,Veg,Permanent
+13,2125,10Jerome st,3,2,Yes,2mins to bus stop,0.7,Fully equippied kitchen,Private,No preference,Girls,$600/Month,Veg,Permanent
+14,2116,"30,1163 Boylston street,Fenway",1,1,Yes,"10mins walk to NEU,Red eye accessible, 5mins to green line",0.8,Heat and water included,Shared,No preference,Boys,$690/Month,Veg,Permanent
+15,2120,"Mission main Apartments,Smith street,Mission main",3,1.5,Yes,"5mins to orange line, 8mins to green line, Red eye accessible",0.7,"Fully equipped kitchen,Heat and hotwater, No pest or rats",Shared,No preference,Boys,$657/Month,Veg,Permanent
+16,2125,226 Parker Hill Ave#1,2,1,Yes,"0.5 miles to green line, 0.5miles to orangeline,Red eye accessible",1.2,"Fully equipped kitchen, Heater and Hot water",Shared,No preference,Boys,$700/Month,Veg,Permanent
+17,2119,"43 Mount pleseant Ave,Roxbury",3,1.5,Yes,"2 min walk to Bus stop for bus 15/45 ,5 min walk to Nubain station for free bus (23/28) to ruggles ,Red eye accessibility.20 min walk to Northeastern University directly from the house.",1,"24/7 hot water, oven, refrigerator, dishwasher, microwaveequipped kitchen.",Private,No preference,Boys,$660/ Month,Veg,Permanent
+18,2215,"1209 Boylston Street, Boston, MA",2,1,Yes,"10 min walk to Northeastern University directly from the house. Bus and T-stop near apartment.
+Red eye accessibility.",0.9,"24/7  Hot water, Oven and Microwave ,  refrigerator, laundry available in basement",Private,No preference,Boys,$625/Month,Veg,Permanent
+19,2119,"14 Hazelwood st, Boston(Roxbury),Roxbury",4,2,Yes,"Northeastern University : 1.8 miles Bus stop: 0.1 mile (3 min walk - 23/28 free bus available
+ Red Eye accessible",1.1,"Full furnished,AC and heating",Private,No preference,Girls,$1100/Month,Veg,Permanent
+20,2118,"691 Massachusetts Ave., South End,Boston, MA ",2,1,Yes,"Red line metro station: 0.9 Miles,Orange line metro station: 0.9 Miles, Bus stop: 266 ft (1 min walk), Red Eye accessible",0.8,"Fully equipped kitchen with a gas stove, fridge, dishwasher, and oven
+Heat & hot water (24/7)ed",Shared,No preference,Boys, $750/month,Veg,Permanent
+21,2215,360 Riverway,1,1,Yes,"2 min walk to Green line E (Heath street)
+2 min walk to Bus stop (39)
+Accessible by Northeastern red eye
+20 min walk to Northeastern University",0.4,"Well lit & good ventilation ☀🌿
+- Fully equipped kitchen with Gas stove, Refrigerator, Oven & Microwave.
+- Laundry available in the basement
+- Heat & hot water included",Shared,No preference,Boys,$575/month,Veg,Permanent
+22,2215,"1209 Boylston Street, Boston,",2,2,Yes,10 min walk to Northeastern University directly from the house.Bus and T-stop near apartment.Red eye accessibility.,0.2,"24/7 Hot water, Oven and Microwave   refrigerator, laundry available in basement",Shared,No preference,Boys,$625/Month,Veg,Permanent
+23,2120,Jvue at Lma,1,1,Yes,"Accessible by RED EYE
+•10 mins walk to NEU",0.7,"Utilities like Water,Heat included in rent,Hot water- 24/7 ",Shared,No preference,Boys,$500/Month,Veg,Permanent
+24,2129,3270 Washington Street Boston,3,1,Yes,4-5 mins walk to Stony Brook and Green Street T station (orange line) 0 mins train ride to NEU and 20 mins train ride to Suffolk University,0.5,"It’s a super spacious apartment
+The house is equipped with a centralised AC, stove, oven, heater, Air fryer.",Shared,No preference,Boys,$600/Month,Veg,Permanent
+25,2120," Parker Hill avenue,",3,1,Yes,Red Eye accessible 17 min walk to Northeastern University1 min to bus stop and Mission park T line,0.5,"Fully Equipped Kitchen with an induction stove,Fridge, Oven, and Microwave
+ Centralized Heater and Hot water",Shared,No preference,Boys,$600/Month,Veg,Permanent
+26,2118,123 Northampton Street ,2,1,Yes,"12 min walk to Northeastern University 7 min walk to Orange Line,1 min to silver line10 min walk to Green line Red Eye accessible",0.2,"Fully Equipped Kitchen with a Gas Stove, Fridge, Oven, Microwave,AC/Heater and Hot water available included",Shared,No preference,Boys,$600/Month,Veg,Temporary
+27,2215," 1789 Commonwealth Ave., #3, (Brighton)",4,2,Yes,"15 min drive to Northeastern University (3.8 miles)
+• Chiswick Road tram station (Green line) right opposite to the unit.
+• Bus stand within 0.2 miles and one right in front of the unit.",0.8,"Fully equipped and spacious kitchen with dishwasher, refrigerator.Heat and hot water included in rent.",Shared,"Kannada, Hindi Telugu",Boys, $965/month,Veg,Permanent
+28,2135,"25 Colborne rd,Brighton",4,1.5,Yes,3 min walk from B line Sutherland rd,0.3,"Fully Equipped Kitchen with an induction stove,Fridge, Oven, and Microwave
+ Centralized Heater and Hot water",Private,No preference,Boys,$1075/month,Veg,Permanent
+29,2446,"33A lancaster terrace ,commonwealth ave",2,2,Yes,2 mins walk to the nearest green line station.,2,"Fully-Equipped Kitchen: Perfect for all your culinary needs, with dishwasher, microwave, refrigerator",Shared,No preference,Girls,$550/month,Veg,Permanent
+30,2120,"1575 Tremont St, Boston",1,1,Yes,"Just a 15-min walk to Northeastern University ,3-min walk to Green Line stations ",1.8,"Fully equipped and spacious kitchen with dishwasher, refrigerator.Heat and hot water included in rent.",Shared,No preference,Girls,$570/month,Nonveg,Permanent
+31,2119, 35 Fort Ave ,5,3,Yes,"7 mins walk to bus stop. 
+Free buses (23, 28) to the university. Ruggles is one stop away,5 mins walk to Roxbury Crossing station,Redeye Accessible
+",2," Fully furnished,  Laundry in house ,Kitchen with Microwave, Oven, Refrigerator",Shared,No preference,Boys,$450/Month,Nonveg,Permanent
+32,2134,"1820 Commonwealth Ave, Brighton, MA",2,1,Yes,"1 min walk to Chiswick Rd Green Line station,2 mins walk to nearest bus station, 1 min walk to BlueBikes stand 
+
+",1.8,"Fully furnished spot with a twin xl bed, desk, chair, and monitor. Kitchen with Microwave, Oven, Refrigerator. Laundry in the basement ,Someone who is clean and maintains hygiene preferred, Heat included in rent
+",Shared,No preference,Boys,$500/Month,Nonveg,Permanent
+33,2130,47 Dalrymple street,3,1,Yes,"3 minutes walk to STONY BROOK (orange line. 2 stops from NEU),3 min to blue bikes dock
+RedEye accessible ",1.8,"Mattress, personal closet, hangers and 3 shelf large bed side cabinet available,fully equipped furnished kitchen with stove , microwave and oven,dishwasher, mixer, in house free laundry unit , heater and cooler available. wifi , heat, gas and electricity included ,common living space with couch
+",Shared,No preference,Girls,$660/Month,Nonveg,Temporary
+34,2130,"61 Day St, Jamaica Plain ",3,1,Yes,"8 mins walk to Orange Line,6 mins walk to Green Line, MBTA Bus, NEU Red Eye accessible
+",0.4," Microwave, Gas Stove, Dishwasher, Washing Machine(basement), Refrigerator, TV and Sofa
+",Shared,No preference,Girls,$525/Month,Nonveg,Permanent
+35,2119, 435 Walnut Ave.,4,1.5,Yes," 2 mins walk to the nearest bus stop which drops you at Northeastern in 15 mins. Red eye accessible
+",0.2,"Fully Equipped Kitchen with Refrigerator, Oven, Air fryer, Toster,  Microwave and Dishwasher all included in rent
+",Shared,No preference,Boys,$450/Month,Nonveg,Temporary
+36,2130," 47 Iffley Rd, Jamaica Plain, Boston ",2,1,Yes," Orange Line station (STONY BROOK) and 5 min walk to Bus Stop 
+
+",0.7,"Kitchen equipped with a gas stove, fridge, oven, and dishwasher, Hot water,Heat,Electricity,Wifi
+",Shared,No preference,Boys,$600/Moth,Nonveg,Permanent
+37,2116,"1203 Boylston Street, Boston, MA 02215",2,1,Yes,Bus and T facilities near the apartment.Red eye accessibility. 10 min walk to Northeastern University directly from the house.,0.5,"Bus and T facilities near the apartment.Red eye accessibility. 10 min walk to Northeastern University directly from the house.
+",Shared,No preference,Boys,$540/Montha,Nonveg,Temporary
+38,2120,"75st Alphonsus street, Jvue apartments, Boston MA ",1,1,Yes, Green-line is 2 mins away and orange-line is 8 mins away ,0.5,"includes heat, AC, Gas) + utilities (water, wifi)",Shared,No preference,Boys,$470/Month,Nonveg,Permanent
+39,2120,"17C Smith Street, Boston 02120(Mission Main)",2,1,Yes,"9 mins walk(0.4 miles) to Northeastern University,⁠Red eye accessible",0.4,"Fully equipped kitchen with stove, refrigerator, oven, dishwasher, and microwave ,In-house free washer and dryer ,⁠Water and heat included in the rent
+",Shared,No preference,Girls,$620/Month,Veg,Temporary
+40,2116,"Boylston street, Boston(Fenway), MA.",2,1,Yes,17 min walk to Northeastern University.,0.4,"Fully quipped kitchen with refrigerator, oven, dishwasher.",Shared,"English, Hindi Kannada",Girls,$656/Month,Veg,Permanent
+41,2114, Cedar st,5,2,Yes,15 mins walking from the university. ,0.2,"Fully Equipped Kitchen with microwave, Rent inclusive of Heater and Hot Water",Private,No preference,Boys,$1200/month,Nonveg,Permanent
+42,2119,"2837 Washington St #2, Fort Hill, Boston, MA",4,2.5,Yes,"Red Eye Accessible for NEU, Subway: Nearest T Stop 10 mins by Walk, Bus: Nearest Bus Stop 1 mins by Walk",0.7,"4 Commodious Bedrooms,2.5 Spacious Bathrooms,AC, Dishwasher, Garbage/Disposal,Modern Kitchen with Gas, Microwave, Oven, and Refrigerator, In Unit Laundry ,Private deck off the kitchen,NewAppliances, New/RenovatedKitchen, Outdoor Patio, Roof Deck,ModernBath, NewBath
+
+",Shared,No preference,Boys,$590/Month,Nonveg,Permanent
+43,1571,"Dudley Street, MA ",4,2,Yes,"Less than a minute to the bus stop , 5 mins away from 23/28 (FREE from Nubian) Red eye accessible, Orange line 5 mins away
+",0.5,"Large Kitchen equipped with ⁠Dishwasher, Refrigerator ,Oven ,Washer and Dryer included in the building",Shared,No preference,Girls,$540/Montha,Nonveg,Permanent
+44,2119,Hyde Square ,4,1,Yes,"REDEYE ACCESSIBLE, Just a 5-minute walk to the 39 bus route, with a travel time of 20 minutes. ,Additionally, the 22 bus route from Jackson Square is easily accessible,Only a 5-minute walk to the orange line station (Jackson Square),11 minutes to the green line station (*Heath Street*), Another nearby orange line station is Stonybrook, just 7 minutes away
+",0.5,"Fully Equipped Kitchen with microwave, Rent inclusive of Heater and Hot Water",Private,No preference,Girls,$1100/Month,Nonveg,Permanent
+45,2119,Fort Hill,3,1,Yes,Red eye accessible,1.1,Heat and hot water included,Shared,No preference,Boys,$500/Month,Nonveg,Permanent
+46,2118,"135 Northampton Street, Boston MA",3,1,Yes,10mins walk to Northeastern University ,0.4,"Fully equipped Kitchen with Stove, Refrigerator, Oven, Microwave, and Dishwasher all included in the rent.
+",Private,No preference,Girls,$600/Month,Nonveg,Permanent
+47,2119,In Hyde Square,4,1,Yes,"15 Min Commute to NeU ( 5 min walk to T Station, 7 min train to NeU (3 min buffer) )",0.2,Red Eye Accessible ,Private,No preference,Boys,$1100/Month,Nonveg,Permanent
+48,2116,"1163 Boylston Street, Fenway District, Boston",2,1,Yes,10 min walk to NEU campus (0.4 miles away),0.4,"Stove, Oven, Refrigerator, Dishwasher, Laundry room in building, Equipped with elevator New/Renovated Kitchen",Shared,No preference,Girls,$700/Month,Nonveg,Permanent
+49,2116,Boylston Street,2,2,Yes,"NEU (7 min walk to the university),Red eye accessible,Bus stop and train at walkable distance.
+",0.3,"-Kitchen equipped with ⁠Dishwasher,Refrigerator,⁠Oven 
+",Shared,No preference,Boys,$534/Month,Nonveg,Permanent
+50,2118,"55 E Springfield St Unit 4 Boston, MA  South End Boston",2,1,Yes,"0.9 mile from Northeastern which is a 15 mins walk to the campus ,Red Eye accessible
+",0.9," Fully Equipped Kitchen with a Gas Stove, Fridge, Dishwasher.
+ Water included in rent,AC/ Heater in all rooms including the hall.
+",Shared,No preference,Girls,$590/Month,Nonveg,Permanent
+51,2115,"Saint Germain Street, Boston, MA- ",4,2,Yes,"Red eye accessibility.5 min walk to Northeastern. 2 min walk to 3 green line stations(Symphony, Prudential and Hynes Convention Center)
+",0.9," Fully equipped kitchen with refrigerator, oven, microwave and dishwasher",Shared,No preference,Girls,$646/Month,Nonveg,Permanent
+52,2130, Byner st Jamaica plain.,2,1,Yes,"3 min walk to bus stop route 39 to northeastern.10 min walk to green line Heath street T stationRed eye accessible 
+",1.1,"Fully Equipped Kitchen with microwave, Rent inclusive of Heater and Hot Water",Private,No preference,Girls,$1200/Month,Veg,Permanent
+53,2102,J Vue at the LMA Apartments,2,1,Yes,"2 min walk to Green Line, Orange Line & Bus stopRed Eye accessible ",0.8,"Spacious apartmentFully Equipped Kitchen with a Gas Stove, Fridge, Oven, and Microwave, Centralised AC/Heater and Hot water (24/7) ,Laundry facility (new, renovated),Free gym (renovated) Swimming pool, Poker room,Table tennis, Pool,Multiple Conference rooms and common space 
+",Shared,No preference,Girls,$560/Month,Nonveg,Permanent
+54,2130,2 Wyman place (unit 1),3,1,Yes,"Red eye accessible ,1 min walk to the nearest bus stand, 3 minutes walk to Jackson square metro",1.2,"Laundry in basement Oven, Microwave, Refrigerator and Dishwasher ,Fully Equipped Kitchen,A spacious living room
+",Private,No preference,Girls,$850/Month,Veg,Permanent
+55,2116,"235 parkdrive,fenway",1,1,Yes,Accessible by RED EYE ,1.1,"Fully Equipped Kitchen with Stove, Fridge, Oven, Microwave and Dishwasher.",Shared,No preference,Girls,$682/Month,Nonveg,Permanent
+56,2130,"9 Arcola St #3R, Jamaica Plain, MA ",3,2,Yes," Orange Line station (STONY BROOK) and 5 min walk to Bus Stop 
+
+",0.4,"Fully Equipped Kitchen with microwave, Rent inclusive of Heater and Hot Water",Shared,No preference,Girls,$600/Month,Nonveg,Permanent
+57,2119,"81 Amory St, Boston, MA",2,1.5,Yes,"Red Eye accessible, 5 min walk to Orange line Jackson Square T station,3 min walk to Bus stop,30 min walk to Northeastern University
+",0.6,"Kitchen is equipped with gas stove, fridge, oven, microwave and dishwasher,Centralized AC/Heater runs with electricity, Hot water is available and water is free
+",Shared,No preference,Girls,$650/Month,Veg,Permanent
+58,2215,"191 Boylston St, Jamaica plain l, Boston.",5,2,Yes,"Northeastern University : 2 mi.,T stop station - Orange line Stony brook: 0.3 mi (5 min walk), Bus stop: 0.1 mile (a min walk), Red Eye accessible
+",0.7,"Fully equipped kitchen with a gas stove, fridge, and oven, Laundry in the basement of the building (washing and drying)
+",Private,No preference,Girls,$950/Month,Nonveg,Permanent
+59,2215,"224 Jamaicaway, Jamaica plain Boston, MA ",2,1,Yes,"10 minutes away Heath Street green line,Red eye accessibility. 4 min walk to Bus top (No.39 to NEU)
+",0.4,"Fully Equipped Kitchen with a Gas Stove, Fridge, Oven, and Microwave, and dishwasher,Heater and Hot water and AC available, Laundry facility in apartment",Private,No preference,Girls,$1100/Month,Nonveg,Permanent
+60,2135,"Braemore street, Brighton.",5,2,Yes,"Close to Green Line & Bus Stop,35 min commute to Northeastern University",0.4,"Fully Equipped Kitchen with microwave, Rent inclusive of Heater and Hot Water",Private,No preference,Girls,$750/Month,Nonveg,Permanent
+61,2215,"Boylston St, Jamaica Plain",2,1,Yes,"Convenient red-eye access ,Just a 2-minute walk to Stony Brook station (Orange Line) with direct service to Ruggles, 20 min to NEU ",1.2,"Massive kitchen with extra dining space , ⁠A backyard area available to be used as a personal space.",Private,No preference,Girls,$900/Month,Nonveg,Permanent
+62,2135,"23 Egremont Rd,Brighton,",4,2,Yes,"5 min walk to Green Line T (Sutherland Road, Washington Street), 5 min walk to bus stop (65 Kenmore)
+",1.5,"Fully Equipped Kitchen with microwave, Rent inclusive of Heater and Hot Water",Shared,No preference,Girls,$440/Month,Nonveg,Permanent
+63,2116,"Boylston street, Boston(Fenway), MA.",1,1,Yes," 10 min walk to Northeastern University. Red eye accessible
+",0.2,"Fully quipped kitchen with refrigerator, oven, dishwasher.Heat and hot water included.
+",Shared,No preference,Girls,$656.25/Month,Nonveg,Permanent
+64,2130,"240 Heath Street, Jamaica Plain, Boston, MA",2,1.5,Yes,"10-mins to Northeastern University via green line (Heath St station 2 min walk) or route 39 bus stop is a 3 min walk from the apartment, Red eye accessible
+",0.5,"Fully equipped Kitchen with Stove, Refrigerator, Oven, dishwasher, Microwave all included in the rent",Shared,No preference,Boys,$645/Month,Veg,Permanent
+65,2134,"Upper Allston, Brainerd street,",2,1,Yes,2 mins walking for Green line,0.3,"Fully Equipped Kitchen with microwave, Rent inclusive of Heater and Hot Water",Shared,No preference,Girls,$850/Month,Nonveg,Permanent
+66,2130,"61 Day St, Jamaica Plain 02130",3,1,Yes," 5 mins walk to Green Line, MBTA Bus, 8 mins walk to Orange Line, NEU Red Eye accessible
+",0.7," Microwave, Gas Stove, Dishwasher, Washing Machine(basement), Refrigerator, TV and Sofa",Shared,No preference,Girls,$525/Month,Nonveg,Permanent
+67,2130,"11 Arcola St, Boston",2,1,Yes," Nearby Bus and Tram Commute (~6 min walk) , Close to Northeastern University ",0.8,"Fully equipped Kitchen with Stove, Refrigerator, Oven, dishwasher, Microwave all included in the rent",Private,No preference,Boys,$700/Month,Nonveg,Temporary
+68,2215,"1191 Boylston St, Boston, MA ",3,1,Yes, Red Eye accessible,0.5,"Hardwood Floors,Window Coverings,Generous Closet Space,Fully Equipped Kitchen with a Gas Stove, Fridge and Oven , Laundry facility in basement, Heat and water included
+",Shared,No preference,Girls,$550/Month,Nonveg,Permanent
+69,2116,"26, 1185 Boylston Street, Fenway Boston",2,1,Yes,"Red eye accessible,10 mins walk to NEU, 5 min walk to Green Line/Bus stop",0.2,"Heat, hot water and gas included.
+",Shared,No preference,Girls,$620/Month,Nonveg,Permanent
+70,2120,4 Wigglesworth st (Brigham circle) ,3,1,Yes,"1 min walk to Brigham circle Green line T stop, 1 min walk to Bus stop - Bus 39(5min ride to NEU), Red Eye accessible, 13 mins walk to the NEU",0.8,"Fully Equipped Kitchen with a Gas Stove, Dishwasher, Refrigerator, Oven, Microwave,24/7 Laundry facility available in the basement",Shared,No preference,Girls,$590/Month,Veg,Temporary
+71,2130,"Sheridan street, Boston, MA",3,1,Yes,"3 min walk to Stony Brook MBTA,5 min walk to 39 bus station and green line,10 min train ride to Northeastern University",0.3,"Fully Equipped Kitchen with a Gas Stove, Dishwasher, Refrigerator, Oven, Microwave,24/7 Laundry facility available in the basement",Shared,No preference,Girls,$580/Moth,Nonveg,Permanent
+72,2119,13 Lambert Street,3,2,Yes,"Free Bus rides - 23 and 28( direct bus to Ruggles)5 mins walk to nearest bus stop,7 mins walk to Roxbury Crossing (Orange Line), 15 mins walk to northeastern university ,Red-Eye Accessible
+",2,"Fully equipped kitchen with gas stove, fridge, oven, microwave and dishwasher",Shared,No preference,Girls,$570/Month,Nonveg,Permanent

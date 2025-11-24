@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Housing Recommendation Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        form {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        label {
+            margin-top: 10px;
+            display: block;
+            font-weight: bold;
+        }
+
+        input[type="text"],
+        input[type="submit"] {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            box-sizing: border-box;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+
+        input[type="submit"] {
+            background-color: #0056b3;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #004494;
+        }
+    </style>
+</head>
+
+<body>
+    <form action="/" method="post">
+        <h1>Housing Recommendation</h1>
+        
+        <label for="Bedrooms">Bedrooms:</label>
+        <input type="text" name="Bedrooms" id="Bedrooms">
+
+        <label for="Bath">Bath:</label>
+        <input type="text" name="Bath" id="Bath">
+
+        <label for="Food">Food (Enter Veg (0) or NonVeg (1)):</label>
+        <input type="text" name="Food" id="Food">
+        
+        <label for="Distance">Distance from University (in miles):</label>
+        <input type="text" name="Distance" id="Distance">
+
+        <label for="AccommodationType">Type of Accommodation (Permanent/Temporary):</label>
+        <input type="text" name="AccommodationType" id="AccommodationType">
+
+        <label for="Gender">Gender (Male/Female/Other):</label>
+        <input type="text" name="Gender" id="Gender">
+
+        <label for="RoomType">Type of Room (Private/Shared):</label>
+        <input type="text" name="RoomType" id="RoomType">
+
+        <input type="submit" value="Get Recommendations">
+    </form>
+</body>
+
+</html>

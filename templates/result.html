@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Property Recommendations</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f1f1f1;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            width: 85%;
+            max-width: 1200px;
+            margin: 30px auto;
+            background-color: white;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            color: #1d3557;
+            margin-bottom: 20px;
+        }
+        .recommendation {
+            background: #ffffff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .recommendation:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+        .recommendation h2 {
+            margin-top: 0;
+            color: #1d3557;
+            font-size: 1.6em;
+            font-weight: bold;
+        }
+        .recommendation p {
+            color: #555;
+            font-size: 1em;
+            line-height: 1.5;
+        }
+        .recommendation p strong {
+            color: #1d3557;
+            font-weight: bold;
+        }
+        .recommendation ul {
+            list-style: none;
+            padding-left: 0;
+            margin-top: 10px;
+        }
+        .recommendation li {
+            background-color: #f8f8f8;
+            border-radius: 5px;
+            padding: 8px;
+            margin-bottom: 6px;
+            font-size: 1em;
+            color: #333;
+            box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.05);
+        }
+        .recommendation li:last-child {
+            margin-bottom: 0;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Property Recommendations</h1>
+        {% if recommendations %}
+            {% for recommendation in recommendations %}
+                <div class="recommendation">
+                    <h2>{{ recommendation.Address }}</h2>
+                    <p><strong>Zip Code:</strong> {{ recommendation['Zip Code'] }}</p>
+                    <p><strong>Transportation:</strong> {{ recommendation.Transportation }}</p>
+                    <p><strong>Amenities:</strong></p>
+                    <ul>
+                        {% for amenity in recommendation.Amenities.split(",") %}
+                            <li>{{ amenity.strip() }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endfor %}
+        {% else %}
+            <p>No recommendations available.</p>
+        {% endif %}
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Property Recommendations. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
